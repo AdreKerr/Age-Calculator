@@ -1,0 +1,69 @@
+/* everything */
+.big{
+    background-color: #E09F3E;
+}
+
+/* tilte only */
+#title{
+    background-color: #0B3948;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 2px #416165;
+    color: white;
+    
+}
+
+/* The box to enter age */
+.box{
+    color: white;
+    background-color: #0B3948;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 2px #416165;
+    margin-bottom: 100px;
+}
+/* date */
+#Bday{
+    border-radius: 10px;
+    background-color: #87B37A;
+    color: white;
+}
+/* submit button */
+#submit{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #87B37A;
+    color: white;
+}
+/* clear */
+#clear{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #87B37A;
+    color: white;
+}
+/* age */
+#age{
+    background-color: #0B3948;
+    text-align: center;
+    box-shadow: 5px 5px 2px #416165;
+    margin-bottom: 100px;
+    color: white;
+}
+#result{
+    list-style-type: none;
+}
+#result #dis{
+    list-style-type: none;
+    padding: 10px;
+}
+
+
+
+/* space */
+.space{
+    height: 100px;
+}
+.space1{
+    height: 200px;
+}
